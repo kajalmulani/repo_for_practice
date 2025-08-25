@@ -1,2 +1,2 @@
 Line from main
-Conflicting line from feature
+Conflicting line from featurek
